@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: video-force\n"
+"POT-Creation-Date: 2015-11-09 19:22+0530\n"
+"PO-Revision-Date: 2015-11-09 16:50+0100\n"
+"Last-Translator: Ritesh <ritesh@connect91.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: D:/CONNECT 91/PROJECTS/VIDEO-FORCE/WP plugin/v1.0/wp-"
+"content/plugins/in-video-shopping-woocommerce\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: in-video-shopping-woocommerce.php:253
+msgid "Woocommerce not installed or activated"
+msgstr "WooCommerce ist nicht installiert oder aktiviert"
+
+#: includes/VF_Post_Type.php:319
+msgid ""
+"<strong>Important:</strong> Looks like your credentials are incorrect. "
+"please check your creds in Woocommerce integration tab."
+msgstr ""
+"<strong>Wichtig:</strong> Es scheint so, als seien die Daten nicht korrekt. "
+"Bitte die Daten innerhalb des WooCommerce Integration Tabs überprüfen und "
+"ggf. korrigieren."
+
+#: includes/VF_Post_Type.php:331
+msgid ""
+"<a href=\"./?walkthrough_id=(4265)\">Start In-video shopping tutorial.</a>"
+msgstr ""
+"<a href=\"./?walkthrough_id=(4265)\">Starte das Tutorial für In-video "
+"Shopping.</a>"
+
+#: includes/VF_Post_Type.php:345
+msgid ""
+"<a href=\"./admin.php?page=wc-settings&tab=integration\">Click here to "
+"register In-video shopping for Woocommerce</a>"
+msgstr ""
+"<a href=\"./admin.php?page=wc-settings&tab=integration\">Hier klicken, um "
+"sich zum In-video Shopping für WooCommerce zu registrieren.</a>"
+
+#: includes/VF_Post_Type.php:356
+msgid ""
+"<strong>Important:</strong>Looks like you have no products in your "
+"woocommerc store. If you do then please contact Support at <strong>Video-"
+"Force</strong> "
+msgstr ""
+"<strong>Wichtig:</strong>Es scheint so, als seien keine Produkte im "
+"WooCommerce Shop vorhanden. Falls das doch der Fall sein sollte, kontaktiere "
+"bitte den Support von <strong>Video-Force</strong> "
+
+#: includes/WC_Integration_main.php:162
+msgid "Looks like you made a mistake with the "
+msgstr "Es scheint so als sei hier ein Fehler aufgetreten "
+
+#: views/admin_form.php:45
+msgid "Paste your Youtube link here"
+msgstr "Link zum Youtube Video einfügen"
+
+#: views/admin_form.php:46
+msgid "Paste your Vimeo link here"
+msgstr "Link zum Vimeo Video einfügen"
+
+#: views/admin_form.php:47
+msgid "Paste your external link here"
+msgstr "Link zum externen Video einfügen"
+
+#: views/admin_form.php:117
+msgid "Add video"
+msgstr "Video hinzufügen"
+
+#: views/admin_form.php:126
+msgid ""
+"Tell us if your video is hosted by Youtube, Vimeo or another site. If your "
+"video file is not hosted anywhere, you can upload an mp4 file to your site, "
+"although this is not recommended."
+msgstr ""
+"Teile uns mit, ob Dein Video bei YouTube, Vimeo oder bei einer anderen Seite "
+"liegt. Falls Dein Video noch nirgendwo liegt, kannst Du ein mp4 Video auf "
+"Deine Seite hochladen, obwohl wir das eher nicht empfehlen."
+
+#: views/admin_form.php:127
+msgid "Video source"
+msgstr "Video Quelle:"
+
+#: views/admin_form.php:146 views/admin_form.php:155
+msgid "Place a video link or upload an mp4 file here."
+msgstr ""
+"Füge einen Link zu einem Video es oder lade ein Video im mp4 Format hoch."
+
+#: views/admin_form.php:147
+msgid "Self hosted *"
+msgstr "Selbst gehostet *"
+
+#: views/admin_form.php:148
+msgid "Upload video"
+msgstr "Video hochladen"
+
+#: views/admin_form.php:156
+msgid "Video file *"
+msgstr "Video Datei*"
+
+#: views/admin_form.php:166
+msgid ""
+"A splash image is shown before your video starts. Upload one according to "
+"your video's dimensions. Oh, and don't forget to make it... splashy."
+msgstr ""
+"Ein Startbild wird angezeigt, bevor das Video gestartet wird. Lade eines in "
+"den gleichen Abmessungen wie das Video hoch. Ah, und vergiss bitte nicht, "
+"dass es gut aussieht."
+
+#: views/admin_form.php:171
+msgid "Splash image"
+msgstr "Startbild"
+
+#: views/admin_form.php:174
+msgid "Upload splash image"
+msgstr "Startbild hochladen"
+
+#: views/admin_form.php:186
+msgid "Player settings"
+msgstr "Player Einstellungen"
+
+#: views/admin_form.php:194
+msgid ""
+"Set the size of your player according to a proper aspect ratio. Read more "
+"about it <a class=\"tooltip-link\" target=\"_blank\" href=\"http://www.video-"
+"force.com/optimal-video-dimensions\" >here</a>"
+msgstr ""
+"Setze die Größe des Spielers in ein richtiges Seitenverhältnis. Mehr "
+"erfährst Du <a class=\"tooltip-link\" target=\"_blank\" href=\"http://www."
+"video-force.com/optimal-video-dimensions\" >hier</a>"
+
+#: views/admin_form.php:198
+msgid "Player dimensions *"
+msgstr "Player Abmessungen *"
+
+#: views/admin_form.php:200
+msgid "Width"
+msgstr "Breite"
+
+#: views/admin_form.php:217
+msgid ""
+"Choose a theme that matches with your branding. Haven't created a theme yet? "
+"No problemo. You can get it done <a class=\"tooltip-link\" target=\"_blank\" "
+"href=\"./edit.php?post_type=video&page=player-customization\" >here</a>"
+msgstr ""
+"Wähle ein Aussehen, das zu Deinem Branding passt. Noch kein Thema erstellt? "
+"Kein Problem, das kannst Du <a class=\"tooltip-link\" target=\"_blank\" href="
+"\"./edit.php?post_type=video&page=player-customization\" >hier</a> nachholen."
+
+#: views/admin_form.php:221
+msgid "Player Theme"
+msgstr "Aussehen Videoplayer"
+
+#: views/admin_form.php:226
+msgid "Player theme"
+msgstr "Aussehen Videoplayer"
+
+#: views/admin_form.php:236
+msgid "Cart settings"
+msgstr "Warenkorb Einstellungen"
+
+#: views/admin_form.php:244
+msgid "Choose where the cart icon should appear in your video."
+msgstr ""
+"Wähle, wo das Icon des Warenkorbes in Deinem Video angezeigt werden soll."
+
+#: views/admin_form.php:247
+msgid "Cart icon position"
+msgstr "Position für Warenkorb Icon"
+
+#: views/admin_form.php:266
+msgid "Looking to be a bit different? Here you can upload your own cart icon."
+msgstr ""
+"Soll es ein bißchen anders sein? Hier kannst Du Dein eigenes Icon für den "
+"Warenkorb hochladen."
+
+#: views/admin_form.php:270
+msgid "Overwrite cart icon"
+msgstr "Icon für Warenkorb überschreiben"
+
+#: views/admin_form.php:271
+msgid "Upload cart icon"
+msgstr "Icon für Warenkorb hochladen"
+
+#: views/analytics.php:4
+msgid "Views"
+msgstr "Ansichten"
+
+#: views/analytics.php:8
+msgid "Clicks"
+msgstr "Klicks"
+
+#: views/analytics.php:13
+msgid "Remaining clicks"
+msgstr "Verbleibende Klicks"
+
+#: views/analytics.php:17
+msgid "Buy a Subscription"
+msgstr "Schließe ein Abonnement ab"
+
+#: views/analytics.php:21
+msgid "Buy more Clicks"
+msgstr "Kaufe weitere Klicks"
+
+#: views/customize.php:7
+msgid "Player themes"
+msgstr "Aussehen des Videoplayers"
+
+#: views/customize.php:11
+msgid "Select a template you would like to edit"
+msgstr "Wähle eine Vorlage, welche bearbeitet werden soll"
+
+#: views/customize.php:13
+msgid "Select a template"
+msgstr "Wähle eine Vorlage"
+
+#: views/customize.php:27
+msgid "Add Template"
+msgstr "Vorlage hinzufügen"
+
+#: views/customize.php:32
+msgid "Template name *"
+msgstr "Name der Vorlage *"
+
+#: views/customize.php:42 views/customize.php:52
+msgid "Template color"
+msgstr "Farbe der Vorlage"
+
+#: views/customize.php:57
+msgid "Control icon colors"
+msgstr "Farbe der Bedienelemente"
+
+#: views/customize.php:63
+msgid "Video controls"
+msgstr "Steuerelemente Video"
+
+#: views/customize.php:68
+msgid "Controls taskbar"
+msgstr "Steuerung der Taskleiste"
+
+#: views/customize.php:73 views/customize.php:97 views/customize.php:112
+#: views/customize.php:129 views/customize.php:145 views/customize.php:161
+#: views/customize.php:178
+msgid "Off"
+msgstr "Aus"
+
+#: views/customize.php:76 views/customize.php:100 views/customize.php:115
+#: views/customize.php:132 views/customize.php:148 views/customize.php:164
+#: views/customize.php:181
+msgid "On"
+msgstr "An"
+
+#: views/customize.php:92
+msgid "Big play button"
+msgstr "Große Play-Taste"
+
+#: views/customize.php:107
+msgid "Small play button"
+msgstr "Kleine Play-Taste"
+
+#: views/customize.php:124
+msgid "Progress bar"
+msgstr "Fortschrittsbalken"
+
+#: views/customize.php:140
+msgid "Volume control"
+msgstr "Lautstärkeregler"
+
+#: views/customize.php:156
+msgid "Full screen control"
+msgstr "Steuerung Vollbildansicht"
+
+#: views/customize.php:173
+msgid "Timers"
+msgstr ""
+
+#: views/get_translations.php:11
+msgid "Add to cart"
+msgstr "Zum Warenkorb hinzufügen"
+
+#: views/get_translations.php:15
+msgid "Select box default value"
+msgstr "Auswahlbox Standardwert"
+
+#: views/get_translations.php:19
+msgid "Checkout button "
+msgstr "Zur Kasse"
+
+#: views/get_translations.php:23
+msgid "Cart overlay title"
+msgstr "Titel der Warenkorb-Ebene"
+
+#: views/get_translations.php:27
+msgid "Empty cart title"
+msgstr "Titel bei leerem Warenkorb"
+
+#: views/get_translations.php:31
+msgid "Empty cart message"
+msgstr "Nachricht bei leerem Warenkorb"
+
+#: views/get_translations.php:35
+msgid "Unpublished video"
+msgstr "Video nicht veröffentlicht"
+
+#: views/preview.php:19
+msgid "Iframe"
+msgstr "IFrame"
+
+#: views/preview.php:30
+msgid "Copy the iframe code and paste it wherever you wish to show the video"
+msgstr ""
+"Kopiere den IFrame Quellcode und füge ihn an eine gewünschte Stelle ein, wo "
+"es angezeigt werden soll."
+
+#: views/preview.php:34
+msgid "Copy Iframe"
+msgstr "IFrame kopieren"
+
+#: views/products.php:6
+msgid "Add product"
+msgstr "Produkt hinzufügen"
+
+#: views/products.php:14
+msgid "Select the WooCommerce product you wish to add to the video"
+msgstr ""
+"Wähle ein Produkt aus Deinem WooCommerce Shop, welches Du dem Video "
+"hinzufügen willst."
+
+#: views/products.php:18 views/products.php:114 views/products.php:227
+msgid "Woocommerce product"
+msgstr "WooCommerce Produkt"
+
+#: views/products.php:22 views/products.php:118 views/products.php:231
+msgid "Select product"
+msgstr "Produkt wählen"
+
+#: views/products.php:36 views/products.php:132 views/products.php:242
+msgid "Remove product"
+msgstr "Produkt entfernen"
+
+#: views/products.php:45 views/products.php:164 views/products.php:262
+msgid ""
+"Choose a start and end time for your product to be visible inside the video"
+msgstr ""
+"Wähle einen Zeitraum, in dem das Produkt im Video angezeigt werden soll."
+
+#: views/products.php:49 views/products.php:168 views/products.php:266
+msgid "Show"
+msgstr "Zeige"
+
+#: views/products.php:54 views/products.php:173 views/products.php:271
+msgid "Start *"
+msgstr "Start *"
+
+#: views/products.php:58 views/products.php:177 views/products.php:274
+msgid "End *"
+msgstr "Ende *"
+
+#: views/products.php:66 views/products.php:110 views/products.php:185
+#: views/products.php:223 views/products.php:282
+msgid "Choose where the product should appear in your video."
+msgstr "Wähle, wo genau das Produkt im Video angezeigt werden soll."
+
+#: views/products.php:70 views/products.php:189 views/products.php:286
+msgid "product image Position "
+msgstr "Position des Produktbildes"
